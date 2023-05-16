@@ -8,4 +8,4 @@ A propose différentes préstations
 A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
 
 - Massage #1
-![Massage #1](https://drive.google.com/file/d/1J6nhp7fzZ1mLa48wexofe0uWXXJfH1Wv/view?usp=sharing)
+![Massage #1](https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg)
