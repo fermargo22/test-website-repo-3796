@@ -1,11 +1,12 @@
 ---
 title: Prestations
 ---
-A propose différentes préstations
+A propose différentes prestations
 
-## Préstations
-
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+## Prestations
 
 - Massage #1
 ![Massage #1](https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg)
+
+- Massage #2
+![Massage #2]https://images.pexels.com/photos/296282/pexels-photo-296282.jpeg
